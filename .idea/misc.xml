@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/apps/BookHub/app/src/main/res/drawable-anydpi/ic_about.xml" value="0.2203125" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/drawable-anydpi/ic_dashboard.xml" value="0.2203125" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/drawable-anydpi/ic_favourites.xml" value="0.2203125" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/drawable-anydpi/ic_profile.xml" value="0.2203125" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/drawable-anydpi/ic_settings.xml" value="0.2203125" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/drawable-anydpi/star_icon.xml" value="0.2203125" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/drawable-anydpi/view_sample_image.xml" value="0.2203125" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/activity_description.xml" value="0.22" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/dashboard_view_layout.xml" value="0.25" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/fragment_about__app_.xml" value="0.18115942028985507" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/fragment_dashboard.xml" value="0.18840579710144928" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/fragment_favourite_.xml" value="0.18115942028985507" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/fragment_profile_.xml" value="0.18115942028985507" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/fragment_settings_.xml" value="0.18115942028985507" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/fragment_settings_2.xml" value="0.1766304347826087" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/menu_header.xml" value="0.12771739130434784" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/recycler_favorite_single_row.xml" value="0.25" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/layout/view_layout.xml" value="0.1766304347826087" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/menu/menu_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/menu/menu_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/apps/BookHub/app/src/main/res/xml/network_security_config.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
